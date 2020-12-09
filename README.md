@@ -1,6 +1,6 @@
 ### Hi there I am Brig 👋
 
-- 🔭 I’m currently working on a [Yard Sale Locator](https://github.com/JoshKPreston/yardsalelocator) with [Briston](https://github.com/BristonLowell) and [Josh](https://github.com/JoshKPreston) Preston 
+- 🔭 I’m currently working on a [Yard Sale Locator](https://github.com/JoshKPreston/yardsalelocator) with [Briston](https://github.com/BristonLowell) Lowell and [Josh](https://github.com/JoshKPreston) Preston 
 - 🌱 I’m currently learning Vue3 and C#
 - 💬 Ask me about my experiences in both Computer Science courses vs CodeWorks bootcamp
 - 📫 How to reach me: Check me out on LinkedIn at https://www.linkedin.com/in/briglowell/, or email me at brig.lowell@gmail.com
