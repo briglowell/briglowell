@@ -38,8 +38,8 @@
 <br />
 <summary>GitHub Stats</summary>
 [![Brig's github stats] (https://github-readme-stats.vercel.app/api?username=BrigLowell)] 
-[linkedin]: https://linkedin.com/in/briglowell/
+<!-- [linkedin]: https://linkedin.com/in/briglowell/
 <details>
-  <summary>Recent GitHub Activity</summary>
+  <summary>Recent GitHub Activity</summary> -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
