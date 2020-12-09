@@ -37,7 +37,7 @@
 ---
 <br />
 <summary>GitHub Stats</summary>
-[![Brig's github stats](https://github-readme-stats.vercel.app/api?username=BrigLowell)](https://github.com/BrigLowell/github-readme-stats)
+[![Brig's github stats](https://github-readme-stats.vercel.app/api?username=BrigLowell)]
 [linkedin]: https://linkedin.com/in/briglowell/
 <details>
   <summary>Recent GitHub Activity</summary>
