@@ -1,10 +1,10 @@
 ### Hi there I am Brig 👋
 
-- 🔭 I’m currently working on a [Yard Sale Locator](https://github.com/JoshKPreston/yardsalelocator) with [Briston](https://github.com/BristonLowell) Lowell and [Josh](https://github.com/JoshKPreston) Preston. Additionally, I am working on a yahtzee scoring program using xunit to practice test driven development.
-- 🌱 I’m currently learning python
+- 🔭 I’m currently working on a rebuilding my Yard Sale Locator app in Flutter and with a more robust tech stack [Yard Sale Locator](https://github.com/JoshKPreston/yardsalelocator) with [Briston](https://github.com/BristonLowell) Lowell and [Josh](https://github.com/JoshKPreston) Preston. Additionally, I am working on a yahtzee scoring program using xunit to practice test driven development.
+- 🌱 I’m currently learning flutter
 - 💬 Ask me about my experiences in both Computer Science courses vs CodeWorks bootcamp
 - 📫 How to reach me: Check me out on LinkedIn at https://www.linkedin.com/in/briglowell/, or email me at brig.lowell@gmail.com
-- ⚡ Fun fact: I owned a cell phone buy/sell/repair business for a couple years
+- ⚡ Fun fact: I owned a multi million dollar cell phone buy/sell/repair business for a couple years
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
